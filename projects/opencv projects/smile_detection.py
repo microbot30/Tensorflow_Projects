@@ -27,7 +27,7 @@ while True:
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
     # calls the detect() function
-    canvas = detect(gray, frame)
+    canvas = cv2.flip(detect(gray, frame), 1)
 
     # Displays the result on camera feed
     cv2.imshow('Video', canvas)
