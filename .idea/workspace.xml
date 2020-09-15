@@ -28,11 +28,13 @@
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="microbot30" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="Tensorflow-Projects" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/microbot30/Tensorflow-Projects" />
+        <option value="https://github.com/microbot30/Tensorflow_Projects.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1gYyhcQ7lIRfsABQhiXAJpLPBjV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -202,7 +204,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597400268011</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="flutter folder created">
+      <created>1600213399144</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600213399144</updated>
+    </task>
+    <task id="LOCAL-00008" summary="flutter folder created">
+      <created>1600213561518</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600213561518</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -215,6 +231,25 @@
     <MESSAGE value="Smile detection mini project!!!" />
     <MESSAGE value="opencv projects moved to a new location" />
     <MESSAGE value="changes made in smile_detection.py&#10;final output flipped." />
-    <option name="LAST_COMMIT_MESSAGE" value="changes made in smile_detection.py&#10;final output flipped." />
+    <MESSAGE value="flutter folder created" />
+    <option name="LAST_COMMIT_MESSAGE" value="flutter folder created" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="124" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600213504942">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="378" y="124" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1600213504942" />
+    <state x="208" y="0" key="CommitChangelistDialog2" timestamp="1600213560156">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="208" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1600213560156" />
+    <state x="133" y="9" key="Vcs.Push.Dialog.v2" timestamp="1600213706124">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="133" y="9" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1600213706124" />
+    <state x="414" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600213519018">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="414" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1600213519018" />
   </component>
 </project>
